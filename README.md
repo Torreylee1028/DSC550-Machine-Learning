@@ -3,7 +3,7 @@
 ## Clustering - Data Mining
 
 ### Introduction
-This project was my first attempt at utilizing different clustering techniques on different cereal products. Similar breakfast cereals were clustered based on nutrition facts. The paper and presentation walks through the different clustering methods tested, with the conclusion and insights to the derived 6 clusters. Each clustering method will produce different results and should be chosen based on the nature of the data. The two that are highlighted in this analysis are K-means clustering and hierarchical clustering, although others are tested with reasons why they are not a good fit for the data.
+This project was my first attempt at utilizing different clustering techniques on different cereal products. Similar breakfast cereals were clustered based on nutrition facts. The paper and presentation walks through the different clustering methods tested, with the conclusion and insights to the derived 6 clusters. Each clustering method will produce different results and should be chosen based on the nature of the data. The two that are highlighted in this analysis are K-means clustering and hierarchical clustering, although others are tested with reasons why they are not a good fit for this specific dataset.
 
 ### Tools
 * Scikit-learn
