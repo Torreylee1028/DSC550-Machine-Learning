@@ -7,6 +7,7 @@ This project was my first attempt at utilizing different clustering techniques o
 
 ### Tools
 * Scikit-learn
+* SciPy
 * Matplotlib
 * Numpy
 
@@ -14,8 +15,10 @@ This project was my first attempt at utilizing different clustering techniques o
 * K-means clustering
 * Hierarchical clustering
 * Density clustering with DBSCAN
+* Expectation-Maximization
 * Dimensionality reduction with PCA
 * Elbow test
+* Silhouette score
 
 ### Simliar Breakfast Cereal Pt1
 This notebook contains the EDA, PCA, and the clustering methods
