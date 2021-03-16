@@ -3,7 +3,7 @@
 ## Clustering - Data Mining
 
 ### Introduction
-This project was my first attempt at utilizing different clustering techniques on different cereal products. Similar breakfast cereals were clustered based on nutrition facts. 
+This project was my first attempt at utilizing different clustering techniques on different cereal products. Similar breakfast cereals were clustered based on nutrition facts. The paper and presentation walks through the different clustering methods tested, with the conclusion and insights to the derived 6 clusters.
 
 ### Tools
 * Scikit-learn
