@@ -11,6 +11,9 @@ This project was my first attempt at utilizing different clustering techniques o
 * Matplotlib
 * Numpy
 
+### Data
+80 Cereals: https://www.kaggle.com/crawford/80-cereals?select=cereal.csv
+
 ### Clustering Methods & Evaluation Metrics
 * K-means clustering
 * Hierarchical clustering
